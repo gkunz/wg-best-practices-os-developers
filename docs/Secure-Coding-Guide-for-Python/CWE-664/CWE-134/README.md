@@ -8,6 +8,11 @@ In Python, the use of string formatting combined with the ability to access a fu
 
 This [noncompliant01.py](noncompliant01.py) leaks the global `ENCRYPTION_KEY`  variable due to `MESSAGE + customer` creating a new `message_format` template that is then used as a template during print.
 
+Test:
+
+{% include_relative compliant01.py %}
+
+
 *[noncompliant01.py](noncompliant01.py):*
 
 ```python

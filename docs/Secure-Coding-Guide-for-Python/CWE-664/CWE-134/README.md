@@ -10,8 +10,9 @@ This [noncompliant01.py](noncompliant01.py) leaks the global `ENCRYPTION_KEY`  v
 
 Test:
 
+```python
 {% include_relative compliant01.py %}
-
+```
 
 *[noncompliant01.py](noncompliant01.py):*
 

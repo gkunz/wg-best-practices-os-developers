@@ -20,7 +20,7 @@ Unmaintained software is a risk; most software needs continuous maintenance. If 
 
 | Rule | Description | Checkbox |
 |------|-------------|:--------:|
-| **Activity Level** | Confirm significant recent activity (e.g., commits) has occurred within the previous 12 months. | □ |
+| **Activity Level** | Confirm significant recent activity (e.g., commits) has occurred within the previous 12 months. | <ul><li> [ ] </li></ul> |
 | **Communication** | Verify the existence of recent releases or announcements from the project maintainer(s). | □ |
 | **Maintainer Diversity** | Verify the presence of more than one maintainer, ideally from different organizations, to reduce single-point-of-failure risk. | □ |
 | **Release Recency** | Confirm that the last release was issued within the previous 12 months. | □ |
